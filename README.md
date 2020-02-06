@@ -5,4 +5,4 @@ Hooks  : useEffect, useContext, useState, useReducer .
 
 For global state : context used .
 
-This small applictaion demostartes how you can avoid usage of redux in React Applications.
+This small applictaion demostrates how you can avoid usage of redux in React Applications.
